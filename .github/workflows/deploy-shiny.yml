@@ -26,4 +26,4 @@ jobs:
            SHINY_TOKEN: ${{ secrets.TOKEN }}
            SHINY_SECRET: ${{ secrets.SECRET }}
            APP_NAME: 'dailyDoubleApp' # this will show in the app's url
-           APP_DIR: ''
+           APP_DIR: 'main'
