@@ -25,5 +25,5 @@ jobs:
            SHINY_USERNAME: 'humble-maps' # put your own username here!
            SHINY_TOKEN: ${{ secrets.TOKEN }}
            SHINY_SECRET: ${{ secrets.SECRET }}
-           APP_NAME: 'DailyDoubles' # this will show in the app's url
+           APP_NAME: 'dailyDoubleApp' # this will show in the app's url
            APP_DIR: ''
